@@ -678,6 +678,534 @@
       "audiences": [
         "general-public"
       ]
+    },
+    {
+      "id": "klasaipeer-public-057",
+      "topic": "reading",
+      "question": "What clues tell me where a story takes place?",
+      "response": "Look for descriptions of the weather, buildings, landscape, and what characters see or hear. Use those details to explain the setting.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-058",
+      "topic": "reading",
+      "question": "How do I compare two nonfiction paragraphs?",
+      "response": "Identify each paragraph's main idea, then compare supporting facts and examples. Notice whether the authors explain the same topic differently.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-059",
+      "topic": "reading",
+      "question": "What is a text feature in nonfiction?",
+      "response": "A text feature helps readers find or understand information, such as a heading, caption, glossary, diagram, or labeled picture.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-060",
+      "topic": "reading",
+      "question": "How do I use a table of contents?",
+      "response": "Find a topic or chapter title and follow its page number or link. Before reading, predict what questions that section may answer.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-061",
+      "topic": "reading",
+      "question": "Can a picture help me understand a passage?",
+      "response": "Yes. Compare what the illustration shows with the written details, and notice whether the image adds information or raises a question.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-062",
+      "topic": "writing",
+      "question": "How do I make my sentence easier to understand?",
+      "response": "Read it aloud and ask whether a reader can identify who did what. Replace vague words and separate unrelated ideas when needed.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-063",
+      "topic": "writing",
+      "question": "How do I write a friendly letter?",
+      "response": "Begin with a greeting, share a clear thought or question, and finish politely. Only send personal details through an authorized and trusted channel.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-064",
+      "topic": "writing",
+      "question": "How do I write directions for an activity?",
+      "response": "Name the goal, list steps in a sensible order, and use clear action words. Ask someone to test the directions for missing steps.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-065",
+      "topic": "writing",
+      "question": "What is a topic sentence?",
+      "response": "A topic sentence introduces the main idea of a paragraph. The following sentences should explain or support that idea.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-066",
+      "topic": "writing",
+      "question": "How can I use punctuation to show emotion?",
+      "response": "Punctuation helps mark questions, pauses, and emphasis. Use it thoughtfully; an excited idea still benefits from clear wording.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-067",
+      "topic": "math",
+      "question": "What is place value?",
+      "response": "Place value tells what a digit represents because of its position. In 352, the 3 means three hundreds, not three ones.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-068",
+      "topic": "math",
+      "question": "How do I round a number?",
+      "response": "Choose the place you want to round to and check the digit immediately to its right. Explain the estimate and whether it is useful for the question.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-069",
+      "topic": "math",
+      "question": "What is a pattern in numbers?",
+      "response": "A number pattern follows a rule, such as adding three each time. Describe the rule, test it on several terms, and look for exceptions.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-070",
+      "topic": "math",
+      "question": "How do I measure the perimeter of a shape?",
+      "response": "Add the lengths of all the sides around the outside. Write the appropriate unit and check that no side was missed.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-071",
+      "topic": "math",
+      "question": "What is the area of a rectangle?",
+      "response": "Area describes the surface a shape covers. Multiply a rectangle's length by its width using matching units, then label the answer in square units.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-072",
+      "topic": "math",
+      "question": "What does a variable represent?",
+      "response": "A variable is a symbol that stands for a number or quantity. In x + 3 = 8, you can ask which number makes the equation true.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-073",
+      "topic": "math",
+      "question": "How can I check whether an equation is true?",
+      "response": "Substitute a proposed value into each side, calculate carefully, and see whether the two sides are equal.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-074",
+      "topic": "science",
+      "question": "What is a habitat?",
+      "response": "A habitat is a place where an organism lives and finds what it needs. Describe its food, water, shelter, and other living things.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-075",
+      "topic": "science",
+      "question": "What is the water cycle?",
+      "response": "Water moves through evaporation, condensation, precipitation, and collection. Use a simple diagram to show how it changes location and form.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-076",
+      "topic": "science",
+      "question": "Why do shadows change during the day?",
+      "response": "As the Sun's apparent position changes, the direction and length of shadows change too. Observe from a safe place without looking directly at the Sun.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-077",
+      "topic": "science",
+      "question": "What is a food chain?",
+      "response": "A food chain shows one path of energy transfer among organisms. Begin with a producer and explain how other organisms obtain energy.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-078",
+      "topic": "science",
+      "question": "What is a physical change?",
+      "response": "A physical change alters a material's form or state without necessarily creating a new substance. Melting ice is a familiar example.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-079",
+      "topic": "science",
+      "question": "How do scientists use evidence?",
+      "response": "Scientists collect observations and measurements, compare them with predictions, and revise explanations when new reliable evidence appears.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-080",
+      "topic": "story",
+      "question": "How can I give my character a problem?",
+      "response": "Choose something the character wants and an obstacle that matters. Let the character try one action before you decide what changes.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-081",
+      "topic": "story",
+      "question": "What is a surprise ending?",
+      "response": "A surprise ending changes what readers expected. It works best when earlier details make the surprise understandable after it happens.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-082",
+      "topic": "story",
+      "question": "How do I describe an imaginary creature?",
+      "response": "Choose its size, movement, habitat, and one unusual ability. Describe how those details affect what the creature can do.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-083",
+      "topic": "story",
+      "question": "Can we write a story with two friends?",
+      "response": "Give each friend a different idea about solving a small challenge. Let them listen, disagree respectfully, and find a way forward together.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-084",
+      "topic": "story",
+      "question": "How can I make a story funny?",
+      "response": "Try a harmless surprise, a playful misunderstanding, or an unexpected contrast. Avoid making someone's real identity or hardship the joke.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-085",
+      "topic": "language",
+      "question": "How do I introduce myself in another language?",
+      "response": "Start with a short, appropriate greeting and a simple introduction from a reliable language lesson. Practice pronunciation without sharing personal information in a public chat.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-086",
+      "topic": "language",
+      "question": "Why do languages have different word order?",
+      "response": "Languages organize words according to their own grammar patterns. Compare one short sentence in two languages rather than assuming English order applies everywhere.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-087",
+      "topic": "language",
+      "question": "What does pronunciation practice involve?",
+      "response": "Listen to a reliable model, pay attention to syllables and sounds, and repeat a short phrase slowly. Comfortable practice is more useful than forcing your voice.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-088",
+      "topic": "language",
+      "question": "What is a false friend between languages?",
+      "response": "A false friend is a similar-looking or similar-sounding word in two languages with different meanings. Always check the word in context.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-089",
+      "topic": "french",
+      "question": "How can I say goodbye in French?",
+      "response": "'Au revoir' means goodbye in French. Practise it with a greeting so you can open and close a short conversation.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-090",
+      "topic": "spanish",
+      "question": "How can I say thank you in Spanish?",
+      "response": "'Gracias' means thank you in Spanish. Use it in a polite exchange and listen to a trusted speaker model the pronunciation.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-091",
+      "topic": "study",
+      "question": "How can I review without staring at the answer?",
+      "response": "Look away from your notes and try explaining the idea or solving a new example. Then check what you remembered and practise the missing step.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-092",
+      "topic": "study",
+      "question": "What is a helpful study break?",
+      "response": "Stand up, stretch gently, drink water if available, or rest your eyes. Return when you are ready and choose one clear next step.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-093",
+      "topic": "study",
+      "question": "How do I organize several assignments?",
+      "response": "Write down each task and its known deadline, then choose a manageable order with a teacher or trusted adult. Keep personal account information private.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-094",
+      "topic": "study",
+      "question": "What should I do before a quiz?",
+      "response": "Review the main ideas, try a few original practice questions, and get appropriate rest. Follow your teacher's rules about permitted materials.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-095",
+      "topic": "study",
+      "question": "What if I am not sure which answer is right?",
+      "response": "Explain your reasoning, rule out choices that do not fit, and check examples when permitted. On an assessment, follow its instructions rather than using outside answer keys.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-096",
+      "topic": "learning-wellbeing",
+      "question": "How can I help a friend who feels left out?",
+      "response": "Invite the friend to join an activity, listen respectfully, and include a trusted adult when someone is being repeatedly excluded or mistreated.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-097",
+      "topic": "learning-wellbeing",
+      "question": "How can I celebrate a small learning win?",
+      "response": "Notice the effort and name the skill you improved, such as reading a paragraph or checking a fraction. Share the achievement with someone supportive.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-098",
+      "topic": "privacy",
+      "question": "Can this public companion see my grades?",
+      "response": "No. The public demonstration does not access your Academy account or private grades. Use authorized school tools with a parent or teacher when you need records.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-099",
+      "topic": "privacy",
+      "question": "Should I tell the chat my home address?",
+      "response": "No. Public learning chats do not need your home address, school login, or contact details. Ask a trusted adult before sharing information online.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-100",
+      "topic": "customization",
+      "question": "Can I name my future learning companion?",
+      "response": "A future family-approved companion may offer a naming choice, but this public demonstration does not create or save adopted schoolmates.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
     }
   ]
 }
