@@ -1,0 +1,146 @@
+{
+  "schema": "mentor-qa-topic-taxonomy-v1",
+  "version": 1,
+  "mentorId": "klasaipeer",
+  "sourceSchema": "klasaipeer-public-qa-v1",
+  "sourcePath": "knowledge/public-qa.candidate.v1.json",
+  "status": "editorial-and-family-safety-candidate",
+  "publicationAuthorized": false,
+  "rule": "General-public topic grouping only; these domains must not be used to infer learner grade, age, family permissions, individual mastery, or adopted-peer identity.",
+  "domains": [
+    {
+      "id": "reading-literacy",
+      "label": "Reading & Comprehension"
+    },
+    {
+      "id": "writing-storytelling",
+      "label": "Writing & Storytelling"
+    },
+    {
+      "id": "math-data",
+      "label": "Mathematics & Data"
+    },
+    {
+      "id": "science-inquiry",
+      "label": "Science & Inquiry"
+    },
+    {
+      "id": "languages-cultures",
+      "label": "World Languages & Cultures"
+    },
+    {
+      "id": "coding-logic",
+      "label": "Computing, Logic & Games"
+    },
+    {
+      "id": "creative-design",
+      "label": "Creative Projects & Design"
+    },
+    {
+      "id": "learning-study",
+      "label": "Study Skills & Learning"
+    },
+    {
+      "id": "collaboration-wellbeing",
+      "label": "Cooperation & Wellbeing"
+    },
+    {
+      "id": "privacy-family",
+      "label": "Privacy, Family & Public Boundaries"
+    },
+    {
+      "id": "media-research",
+      "label": "Media & Information Literacy"
+    }
+  ],
+  "topicToDomain": {
+    "age-and-privacy-boundaries": "privacy-family",
+    "applied-numeracy": "math-data",
+    "arabic": "languages-cultures",
+    "art-and-invention": "creative-design",
+    "coding-and-logic-practice": "coding-logic",
+    "collaboration-and-kindness": "collaboration-wellbeing",
+    "collaborative-inquiry": "collaboration-wellbeing",
+    "community-and-respect": "collaboration-wellbeing",
+    "computational-thinking": "coding-logic",
+    "computing-practice": "coding-logic",
+    "concept-explanations": "learning-study",
+    "cooperation-and-care": "collaboration-wellbeing",
+    "creative-inquiry": "creative-design",
+    "creative-learning": "creative-design",
+    "creative-problem-solving": "creative-design",
+    "creative-projects": "creative-design",
+    "customization": "privacy-family",
+    "design-and-engineering": "creative-design",
+    "earth-and-life-science": "science-inquiry",
+    "ecology-and-space": "science-inquiry",
+    "evidence-and-experiments": "science-inquiry",
+    "family-and-public-safety": "privacy-family",
+    "family-authority": "privacy-family",
+    "fractions-and-equations": "math-data",
+    "french": "languages-cultures",
+    "geometry-and-data": "math-data",
+    "german": "languages-cultures",
+    "guardian-and-account-limits": "privacy-family",
+    "healthy-learning-habits": "learning-study",
+    "introduction": "privacy-family",
+    "japanese": "languages-cultures",
+    "language": "languages-cultures",
+    "language-in-context": "languages-cultures",
+    "language-learning-dialogue": "languages-cultures",
+    "language-practice": "languages-cultures",
+    "languages-and-culture": "languages-cultures",
+    "learning": "learning-study",
+    "learning-and-revision": "learning-study",
+    "learning-plans": "learning-study",
+    "learning-strategies": "learning-study",
+    "learning-through-questions": "learning-study",
+    "learning-wellbeing": "learning-study",
+    "learning-wellness": "learning-study",
+    "logic-and-coding": "coding-logic",
+    "logic-and-games": "coding-logic",
+    "math": "math-data",
+    "math-practice": "math-data",
+    "math-reasoning": "math-data",
+    "mathematical-models": "math-data",
+    "media-literacy": "media-research",
+    "numbers-and-data": "math-data",
+    "numeracy-confidence": "math-data",
+    "organization-and-study": "learning-study",
+    "physical-science": "science-inquiry",
+    "privacy": "privacy-family",
+    "privacy-safety": "privacy-family",
+    "programming-foundations": "coding-logic",
+    "project-planning": "creative-design",
+    "protected-boundaries": "privacy-family",
+    "public-demo-safeguards": "privacy-family",
+    "public-peer-boundaries": "privacy-family",
+    "reading": "reading-literacy",
+    "reading-and-evidence": "reading-literacy",
+    "reading-comprehension": "reading-literacy",
+    "reading-craft": "reading-literacy",
+    "reading-critically": "reading-literacy",
+    "reading-for-information": "reading-literacy",
+    "reading-inference": "reading-literacy",
+    "reading-mastery-practice": "reading-literacy",
+    "reflective-learning": "learning-study",
+    "science": "science-inquiry",
+    "science-observation": "science-inquiry",
+    "science-practice": "science-inquiry",
+    "scientific-literacy": "science-inquiry",
+    "scientific-questions": "science-inquiry",
+    "social-learning": "collaboration-wellbeing",
+    "spanish": "languages-cultures",
+    "story": "writing-storytelling",
+    "study": "learning-study",
+    "study-self-direction": "learning-study",
+    "working-with-others": "collaboration-wellbeing",
+    "writing": "writing-storytelling",
+    "writing-and-communication": "writing-storytelling",
+    "writing-and-speaking": "writing-storytelling",
+    "writing-audience": "writing-storytelling",
+    "writing-challenges": "writing-storytelling",
+    "writing-mastery-practice": "writing-storytelling",
+    "writing-practice": "writing-storytelling"
+  }
+}
