@@ -198,6 +198,486 @@
       "audiences": [
         "general-public"
       ]
+    },
+    {
+      "id": "klasaipeer-public-017",
+      "topic": "reading",
+      "question": "How can I find the main idea in a short story?",
+      "response": "Read a small section and say what it is mostly about in your own words. Then point to two details that help you make that choice.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-018",
+      "topic": "reading",
+      "question": "What should I do when I cannot read a word?",
+      "response": "Look at the letters and sounds you know, read the rest of the sentence, and try again. Ask a trusted teacher or reader if you need help.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-019",
+      "topic": "reading",
+      "question": "How can I practice reading fluently?",
+      "response": "Choose a short, comfortable passage and read it aloud more than once. Focus on understanding and phrasing rather than racing through the words.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-020",
+      "topic": "reading",
+      "question": "How do I tell a fact from an opinion?",
+      "response": "A fact is a claim you can check against evidence. An opinion expresses a judgment or preference. Ask what kind of proof could support the statement.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-021",
+      "topic": "reading",
+      "question": "Can you help me predict what happens next?",
+      "response": "Notice what the characters want and what has happened so far. Make one prediction, then read further to see whether the evidence supports it.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-022",
+      "topic": "writing",
+      "question": "What do I need for a complete sentence?",
+      "response": "A complete sentence usually needs a subject and a verb and must express a complete thought. Try 'The fox ran home' and explain who acted.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-023",
+      "topic": "writing",
+      "question": "How do I add details to a sentence?",
+      "response": "Start with a clear subject and action. Then add one place, time, or reason that helps your reader understand the event.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-024",
+      "topic": "writing",
+      "question": "Can we practice using because?",
+      "response": "Write a sentence with a reason, such as 'I brought an umbrella because it was raining.' Then make your own sentence about something you chose.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-025",
+      "topic": "writing",
+      "question": "How do I organize three ideas in a paragraph?",
+      "response": "Choose one main idea, explain it with two or three connected details, and finish with a sentence that returns to your point.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-026",
+      "topic": "writing",
+      "question": "What is a question sentence?",
+      "response": "A question sentence asks for information and usually ends with a question mark. Try changing 'You found the map' into a question.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-027",
+      "topic": "math",
+      "question": "How do I compare two fractions?",
+      "response": "Draw equal-sized shapes or use a common denominator to compare the same whole. Explain what each fraction represents before deciding which is larger.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-028",
+      "topic": "math",
+      "question": "What does multiplication mean?",
+      "response": "Multiplication can describe equal groups. Three groups of four contain twelve objects; drawing or arranging the groups can help you see why.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-029",
+      "topic": "math",
+      "question": "How can I check my subtraction?",
+      "response": "Try adding your answer to the number you subtracted. If the sum returns to the starting number, you have a useful check.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-030",
+      "topic": "math",
+      "question": "What is a right angle?",
+      "response": "A right angle is one quarter of a full turn and measures ninety degrees. Find an everyday corner and compare it with a wider or narrower angle.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-031",
+      "topic": "math",
+      "question": "What should I do when a word problem is confusing?",
+      "response": "Read the question slowly, identify what is known and what you need to find, and draw a simple model. Choose one step before calculating.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-032",
+      "topic": "science",
+      "question": "What is a fair test in science?",
+      "response": "In a fair test, change one factor while keeping other relevant conditions as consistent as possible. Record what you actually observe.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-033",
+      "topic": "science",
+      "question": "What is the difference between a prediction and an observation?",
+      "response": "A prediction says what you think may happen before a test. An observation records what you notice during or after it, even if it surprises you.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-034",
+      "topic": "science",
+      "question": "How can I keep a science notebook?",
+      "response": "Write the date, question, prediction, method, and what you observed. Draw a diagram if useful, and keep guesses separate from results.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-035",
+      "topic": "science",
+      "question": "Why do plants need light?",
+      "response": "Many plants use light energy to make sugars through photosynthesis. Plants also need water, air, nutrients, and suitable conditions to grow.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-036",
+      "topic": "science",
+      "question": "Can I do a safe science activity at home?",
+      "response": "With an adult's guidance, observe how an ice cube changes in a bowl at room temperature. Record changes without tasting unknown materials or using heat.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-037",
+      "topic": "story",
+      "question": "What makes a good story beginning?",
+      "response": "Introduce a character and something interesting about the place or situation. A small mystery or choice can invite a reader to continue.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-038",
+      "topic": "story",
+      "question": "How do I invent a character?",
+      "response": "Give your character a name, something they enjoy, and one goal. Ask what problem might make reaching that goal difficult.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-039",
+      "topic": "story",
+      "question": "What happens in the middle of a story?",
+      "response": "The character faces a challenge and makes choices. Show one attempt that changes the situation before moving toward an ending.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-040",
+      "topic": "story",
+      "question": "How can I finish a tiny story?",
+      "response": "Show how the character's choice changes the problem or their understanding. Bring back one detail from the beginning for a satisfying connection.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-041",
+      "topic": "story",
+      "question": "Can you give me a storytelling challenge?",
+      "response": "Imagine a small bird finds a mysterious key in a garden. Decide where it came from and write two original sentences about the bird's next choice.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-042",
+      "topic": "language",
+      "question": "How can I remember new vocabulary?",
+      "response": "Practise a few useful words in short sentences, say them aloud, and return to them another day. Explaining a word to someone else can help.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-043",
+      "topic": "language",
+      "question": "What is a cognate between languages?",
+      "response": "A cognate is a word related to a word in another language through shared history. Similar-looking words are not always cognates, so check the meaning.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-044",
+      "topic": "french",
+      "question": "How do I say thank you in French?",
+      "response": "You can say 'merci' for thank you. Try 'merci beaucoup' for thank you very much, and listen to a French speaker's pronunciation.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-045",
+      "topic": "spanish",
+      "question": "How do I say please in Spanish?",
+      "response": "You can say 'por favor' to mean please. Try using it in a short polite request and listen to a Spanish speaker's pronunciation.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-046",
+      "topic": "german",
+      "question": "How do I say thank you in German?",
+      "response": "You can say 'danke' to mean thank you. Practise the word slowly and use it in a friendly exchange.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-047",
+      "topic": "japanese",
+      "question": "How do I say thank you in Japanese?",
+      "response": "You can say 'ありがとう' (arigatō) in a familiar setting. Politeness varies by context, so practise with a trusted language resource.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-048",
+      "topic": "arabic",
+      "question": "How do I say thank you in Arabic?",
+      "response": "You can say 'شكراً' (shukran) for thank you in many Arabic-speaking settings. Listen to a reliable pronunciation before practising.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-049",
+      "topic": "study",
+      "question": "What is a small learning goal?",
+      "response": "A small goal names something you can practise soon, such as reading one paragraph and telling its main idea. Choose a step you can check.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-050",
+      "topic": "study",
+      "question": "How can I know whether I learned something?",
+      "response": "Try explaining the idea in your own words, solving a fresh example, or showing your method. A mistake can show which step needs practice.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-051",
+      "topic": "study",
+      "question": "What should I do after making a mistake?",
+      "response": "Look for the step that changed the answer, compare it with an example, and try again. You can ask a teacher or trusted adult for another explanation.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-052",
+      "topic": "study",
+      "question": "How can I ask a teacher for help?",
+      "response": "Describe the task, say what you have already tried, and point to the exact step that confuses you. You do not need to share account credentials.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-053",
+      "topic": "learning-wellbeing",
+      "question": "What if I feel frustrated with a lesson?",
+      "response": "You may pause, stretch, and ask for help from a trusted person. When ready, choose one smaller step instead of trying to solve everything at once.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-054",
+      "topic": "learning-wellbeing",
+      "question": "What if a classmate is unkind to me?",
+      "response": "Tell a trusted adult or school staff member what happened and how it affected you. You deserve help, and you do not need to handle threats alone.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-055",
+      "topic": "privacy",
+      "question": "Should I share my password with a learning companion?",
+      "response": "No. Keep passwords, private documents, addresses, and account codes out of public chats. Ask a trusted adult or authorized school staff for account help.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-056",
+      "topic": "customization",
+      "question": "Does this public demonstration remember my schoolwork?",
+      "response": "No. This is a public demonstration and not an activated Academy student account. Do not rely on it to save grades, assignments, or personal progress.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
     }
   ]
 }
