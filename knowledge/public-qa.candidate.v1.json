@@ -5406,6 +5406,606 @@
       "audiences": [
         "general-public"
       ]
+    },
+    {
+      "id": "klasaipeer-public-451",
+      "topic": "reading-mastery-practice",
+      "question": "How can I recognize a claim that is too broad?",
+      "response": "Look for statements such as 'all' or 'never' and ask whether the passage supplies enough evidence. Find a possible exception before accepting the claim.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-452",
+      "topic": "reading-mastery-practice",
+      "question": "What can I do after I misunderstand a story passage?",
+      "response": "Read the surrounding section again, identify the words that changed your interpretation, and explain what you understand differently now.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-453",
+      "topic": "reading-mastery-practice",
+      "question": "How do I compare two characters' decisions?",
+      "response": "Name each character's goal, the options available, and what happened. Support the comparison with details rather than guessing motives.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-454",
+      "topic": "reading-mastery-practice",
+      "question": "How can I use context to choose a word meaning?",
+      "response": "Try a possible meaning in the complete sentence and see whether it fits the surrounding ideas. Consult a reliable dictionary if more than one meaning remains plausible.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-455",
+      "topic": "reading-mastery-practice",
+      "question": "Why is a summary different from copying sentences?",
+      "response": "A summary selects important ideas and explains them accurately in fewer original words. Quoted language needs clear attribution when used.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-456",
+      "topic": "writing-mastery-practice",
+      "question": "How can I improve a sentence with unclear pronouns?",
+      "response": "Find who or what each pronoun refers to and replace it with a noun if readers could mistake the reference. Read the revised sentence aloud.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-457",
+      "topic": "writing-mastery-practice",
+      "question": "What is one way to revise an unfocused paragraph?",
+      "response": "Write the paragraph's main idea above it, then check whether each sentence supports that point. Move unrelated details to another place.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-458",
+      "topic": "writing-mastery-practice",
+      "question": "How can I write a helpful example for a definition?",
+      "response": "Choose a clear ordinary situation, show the idea in action, and explain why it fits. A near-miss example can make the distinction easier to see.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-459",
+      "topic": "writing-mastery-practice",
+      "question": "How can I make dialogue punctuation easier to follow?",
+      "response": "Place each new speaker on a new line in English prose and use quotation marks consistently. Check which words are speech and which describe actions.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-460",
+      "topic": "writing-mastery-practice",
+      "question": "What should I check before submitting a written explanation?",
+      "response": "Review the question, supporting details, sentence clarity, spelling, and required sources. Follow your teacher's instructions about independent work.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-461",
+      "topic": "numeracy-confidence",
+      "question": "How do I decide whether to add or multiply in a word problem?",
+      "response": "Identify whether you are combining different quantities or counting equal groups, then draw a model. Check the meaning before choosing an operation.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-462",
+      "topic": "numeracy-confidence",
+      "question": "How can I estimate the size of a decimal answer?",
+      "response": "Compare the numbers with nearby whole numbers or simple benchmarks. The estimate helps reveal a misplaced decimal point.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-463",
+      "topic": "numeracy-confidence",
+      "question": "Why does a negative number change subtraction?",
+      "response": "Subtracting a number is equivalent to adding its opposite. Use a number line to check how the operation changes position.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-464",
+      "topic": "numeracy-confidence",
+      "question": "How can I verify a fraction simplification?",
+      "response": "Multiply the simplified numerator and denominator by the same factor to recover the original fraction. A visual model can provide another check.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-465",
+      "topic": "numeracy-confidence",
+      "question": "What can I do when a graph has unequal intervals?",
+      "response": "Read every scale label and notice where interval sizes differ. Do not infer a constant change from equally spaced marks unless the scale supports it.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-466",
+      "topic": "scientific-literacy",
+      "question": "How can I tell an observation from an explanation?",
+      "response": "An observation reports what was seen or measured; an explanation proposes why it happened. Put the two in separate sentences and connect them with evidence.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-467",
+      "topic": "scientific-literacy",
+      "question": "What is a prediction that can be tested safely?",
+      "response": "Choose a simple measurable change, such as how quickly ice melts in two safe locations, and decide what observation would distinguish the predictions.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-468",
+      "topic": "scientific-literacy",
+      "question": "Why do science diagrams sometimes simplify reality?",
+      "response": "A diagram highlights selected features to explain a process. Ask which parts are not shown and whether those omissions matter to your question.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-469",
+      "topic": "scientific-literacy",
+      "question": "What makes an experimental comparison fair?",
+      "response": "Keep relevant conditions similar and vary the factor you intend to study. Describe any differences that could have affected the results.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-470",
+      "topic": "scientific-literacy",
+      "question": "How can I report an unexpected experimental result?",
+      "response": "Record it accurately, check the procedure, and consider possible explanations. Surprising evidence is information, not a reason to change the record.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-471",
+      "topic": "language-learning-dialogue",
+      "question": "How can I begin a short practice conversation in French?",
+      "response": "Use a trusted lesson to practise a greeting, one simple question, and a polite closing. Take turns with a partner without sharing real personal information.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-472",
+      "topic": "language-learning-dialogue",
+      "question": "How can I practise Spanish pronunciation by listening?",
+      "response": "Choose a short phrase from a reliable speaker, listen for stress and syllables, then repeat comfortably and compare your version.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-473",
+      "topic": "language-learning-dialogue",
+      "question": "Why should I learn a word in a complete sentence?",
+      "response": "A sentence shows the word's meaning, grammatical role, and likely context. Practise another sentence to check that you can use it appropriately.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-474",
+      "topic": "language-learning-dialogue",
+      "question": "What if a translation app gives two different meanings?",
+      "response": "Check the whole sentence and consult a dependable dictionary or teacher. Different meanings may fit different contexts rather than contradicting each other.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-475",
+      "topic": "language-learning-dialogue",
+      "question": "How can I avoid confusing similar words across languages?",
+      "response": "Write each word with its language, meaning, and an authentic example. Similar appearance does not always imply the same meaning.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-476",
+      "topic": "coding-and-logic-practice",
+      "question": "What is a test case in programming?",
+      "response": "A test case supplies an input or situation and an expected result. Include normal and boundary cases to check a program's behavior.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-477",
+      "topic": "coding-and-logic-practice",
+      "question": "How do I find the first wrong step in an algorithm?",
+      "response": "Trace the instructions with simple invented input, compare each result with what you expected, and stop at the earliest mismatch.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-478",
+      "topic": "coding-and-logic-practice",
+      "question": "What is a Boolean condition?",
+      "response": "A Boolean condition evaluates to true or false. Programs can use it to decide whether to repeat a step or choose another action.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-479",
+      "topic": "coding-and-logic-practice",
+      "question": "How can I plan a simple interactive quiz?",
+      "response": "Define a learning goal, create original questions, check answer rules, and decide what feedback appears. Do not connect public practice to official grades.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-480",
+      "topic": "coding-and-logic-practice",
+      "question": "Why should I avoid copying secret keys into example code?",
+      "response": "Credentials can grant access to private systems. Use placeholder values and authorized development tools rather than publishing real tokens.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-481",
+      "topic": "art-and-invention",
+      "question": "How can I develop an original illustration from a simple shape?",
+      "response": "Begin with a circle, triangle, or line and transform it into an invented object. Explore different versions before selecting details.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-482",
+      "topic": "art-and-invention",
+      "question": "What is a safe way to test a paper structure?",
+      "response": "Use lightweight teacher-approved materials, make one change at a time, and compare results without sharp tools or heavy loads.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-483",
+      "topic": "art-and-invention",
+      "question": "How can I make a short original rhythm game?",
+      "response": "Invent a few clap patterns, write simple rules, and take turns repeating or changing the sequence. Keep the activity comfortable and inclusive.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-484",
+      "topic": "art-and-invention",
+      "question": "What makes a fictional invention believable?",
+      "response": "Give it a clear purpose, constraints, and consequences. Even imaginative designs feel more convincing when they solve a specific problem.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-485",
+      "topic": "art-and-invention",
+      "question": "How can I explain why I changed an artwork?",
+      "response": "Describe what you wanted viewers to notice, the adjustment you made, and how the new version changes the effect. Both versions can teach you something.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-486",
+      "topic": "learning-and-revision",
+      "question": "How can I review a topic without memorizing one answer?",
+      "response": "Explain the underlying idea, invent a new example, and test it independently. Use notes afterward to check what you missed.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-487",
+      "topic": "learning-and-revision",
+      "question": "What should I do when I make the same mistake twice?",
+      "response": "Identify the exact step that repeats, practise a simpler version, and ask for a different explanation if the cause is unclear.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-488",
+      "topic": "learning-and-revision",
+      "question": "How can I break a difficult reading into manageable steps?",
+      "response": "Preview the heading, read a short part, summarize it, and connect it to the next part. Pause for clarification whenever needed.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-489",
+      "topic": "learning-and-revision",
+      "question": "What is a realistic practice target for one session?",
+      "response": "Choose a skill and a small observable result, such as explaining a fraction with a drawing. Adapt the target with your teacher or caregiver.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-490",
+      "topic": "learning-and-revision",
+      "question": "How can I tell whether a hint was useful?",
+      "response": "Try the next step without viewing the hint and explain why it works. If you still cannot proceed, seek another example rather than copying the solution.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-491",
+      "topic": "cooperation-and-care",
+      "question": "How can I ask a classmate to explain a different method?",
+      "response": "Invite them to describe their first step and reasoning, then compare the methods respectfully. Avoid requesting answers to protected assessments.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-492",
+      "topic": "cooperation-and-care",
+      "question": "What should I do if group members have different strengths?",
+      "response": "Assign tasks by interest and opportunity, not stereotypes. Give everyone meaningful participation and revisit the plan if workloads become unfair.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-493",
+      "topic": "cooperation-and-care",
+      "question": "How can I offer help without embarrassing someone?",
+      "response": "Ask privately whether help would be welcome and offer a small specific action. Respect their answer and avoid announcing their difficulty to others.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-494",
+      "topic": "cooperation-and-care",
+      "question": "What can I say when an online conversation becomes unkind?",
+      "response": "Stop responding to harmful messages, use available safety controls, and tell a trusted adult or moderator when appropriate. Do not retaliate with private information.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-495",
+      "topic": "cooperation-and-care",
+      "question": "Why is it important to admit when I do not know something?",
+      "response": "Acknowledging uncertainty helps you ask a useful question and avoid spreading a false answer. Learning improves when evidence matters more than appearances.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-496",
+      "topic": "protected-boundaries",
+      "question": "Can this public preview decide if I passed an Academy exam?",
+      "response": "No. Official assessment results and mastery decisions belong only to authorized Academy systems. Public practice feedback cannot replace them.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-497",
+      "topic": "protected-boundaries",
+      "question": "Should I upload a screenshot of my private student dashboard?",
+      "response": "No. Avoid sharing identifying grades, account details, or class records in a public preview. Use approved family or school support channels.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-498",
+      "topic": "protected-boundaries",
+      "question": "Can this demonstration activate a customized companion for me?",
+      "response": "No. Personal companion adoption requires authorized Academy and family controls; this public educational preview does not create private identities.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-499",
+      "topic": "protected-boundaries",
+      "question": "What if an AI message asks me to visit an unfamiliar login page?",
+      "response": "Do not enter credentials or recovery codes. Check with a trusted adult or authorized school administrator through an independently verified official route.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-500",
+      "topic": "protected-boundaries",
+      "question": "What if I need immediate help beyond a learning question?",
+      "response": "Contact a trusted person nearby or appropriate emergency services if you are in danger. A public learning companion cannot provide real-time emergency response.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
     }
   ]
 }
