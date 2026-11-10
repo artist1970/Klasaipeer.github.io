@@ -1806,6 +1806,606 @@
       "audiences": [
         "general-public"
       ]
+    },
+    {
+      "id": "klasaipeer-public-151",
+      "topic": "learning-strategies",
+      "question": "How do I make a practice question for myself?",
+      "response": "Choose one idea you just studied, turn it into a clear question, answer without looking, then check a reliable example or ask your teacher.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-152",
+      "topic": "learning-strategies",
+      "question": "What is spaced practice?",
+      "response": "Spaced practice means returning to a skill over multiple days rather than studying it all at once. Keep sessions short and notice what needs review.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-153",
+      "topic": "learning-strategies",
+      "question": "How can I use a hint without copying the solution?",
+      "response": "Read the hint for one next step, cover it, and try the step yourself. If it still feels confusing, ask for a simpler example.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-154",
+      "topic": "learning-strategies",
+      "question": "What is retrieval practice?",
+      "response": "Retrieval practice is trying to recall an answer before checking notes. It can show which ideas you understand and which ones need more study.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-155",
+      "topic": "learning-strategies",
+      "question": "How do I explain my thinking in mathematics?",
+      "response": "Describe what each number represents, the operation you chose, and why the result makes sense. A drawing can help make your steps visible.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-156",
+      "topic": "learning-strategies",
+      "question": "What can I learn from comparing two solutions?",
+      "response": "Look for steps both solutions share and where they differ. Ask whether each method follows the rules and reaches a reasonable result.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-157",
+      "topic": "learning-strategies",
+      "question": "How can I set a weekly learning goal?",
+      "response": "With a teacher or trusted adult, choose one specific skill and several manageable practice times. Review progress without treating one difficult day as failure.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-158",
+      "topic": "learning-strategies",
+      "question": "What should I do when I forget an answer?",
+      "response": "Return to a small example, recall the key idea, and try a new question later. Forgetting can tell you what needs another review.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-159",
+      "topic": "learning-strategies",
+      "question": "How can I tell if a source is reliable?",
+      "response": "Check who created it, when it was updated, what evidence supports it, and whether other trusted sources agree. Avoid assuming a polished page is correct.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-160",
+      "topic": "learning-strategies",
+      "question": "Why should I try a fresh example after a lesson?",
+      "response": "A new example shows whether you understand the idea beyond memorizing one answer. Explain what changed and what stayed the same.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-161",
+      "topic": "logic-and-games",
+      "question": "How can a word game help me learn?",
+      "response": "A word game can give repeated chances to notice patterns and try new vocabulary. Explain why a word fits instead of relying only on a score.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-162",
+      "topic": "logic-and-games",
+      "question": "What is a prefix puzzle?",
+      "response": "A prefix puzzle asks how adding a word part changes meaning. Try building an original example, then check that the resulting word is real.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-163",
+      "topic": "logic-and-games",
+      "question": "How do I plan a move in checkers?",
+      "response": "Look at legal moves, consider what your opponent could do next, and compare safe choices. Playing a game is practice in planning, not a test of your worth.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-164",
+      "topic": "logic-and-games",
+      "question": "Why is it useful to review a game after playing?",
+      "response": "Find a moment where a different choice might have changed the outcome. Describe your reason and test the new idea in another game.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-165",
+      "topic": "logic-and-games",
+      "question": "What is a strategy in a learning game?",
+      "response": "A strategy is a plan for reaching a goal. It can change as you learn more about the rules, patterns, or other players.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-166",
+      "topic": "logic-and-games",
+      "question": "How do I recognize a pattern in a puzzle?",
+      "response": "Describe what repeats or changes, test your rule with another example, and look for a counterexample before deciding it always works.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-167",
+      "topic": "logic-and-games",
+      "question": "What is a fair rule in a classroom game?",
+      "response": "A fair rule is clearly explained and applied consistently. Everyone should understand how to participate and how to ask for clarification.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-168",
+      "topic": "logic-and-games",
+      "question": "How can I learn from losing a game?",
+      "response": "Choose one move to examine, ask what alternatives existed, and try another strategy later. A loss can provide useful information without defining you.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-169",
+      "topic": "logic-and-games",
+      "question": "What is a logic clue?",
+      "response": "A logic clue provides information that narrows possibilities. Combine clues carefully and distinguish what must be true from what might be true.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-170",
+      "topic": "logic-and-games",
+      "question": "How can I test whether my puzzle answer is correct?",
+      "response": "Check every rule or clue against your proposed answer. If one condition fails, revise the solution instead of ignoring the contradiction.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-171",
+      "topic": "creative-projects",
+      "question": "How do I start a drawing project?",
+      "response": "Choose a familiar object, sketch its main shapes, and add one detail at a time. You can experiment without needing a perfect first attempt.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-172",
+      "topic": "creative-projects",
+      "question": "Can I create a character for a story?",
+      "response": "Yes. Choose a name, a goal, and a challenge for your invented character. Keep the story fictional rather than sharing private details about real classmates.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-173",
+      "topic": "creative-projects",
+      "question": "How can I make a picture story with three panels?",
+      "response": "Use the first panel to introduce a situation, the second to show a problem, and the third to show a change or solution.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-174",
+      "topic": "creative-projects",
+      "question": "What is a storyboard?",
+      "response": "A storyboard is a sequence of simple images that plans actions or scenes. Each frame can show who is present, what happens, and where attention goes.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-175",
+      "topic": "creative-projects",
+      "question": "How can I create an original rhythm?",
+      "response": "Clap a short pattern you invent, repeat it, and change one beat. Record your idea in a simple count or drawing if you wish.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-176",
+      "topic": "creative-projects",
+      "question": "Can I make a poem from five words?",
+      "response": "Choose five words linked to a place or feeling, then arrange them into a short original poem. Read it aloud to hear its rhythm.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-177",
+      "topic": "creative-projects",
+      "question": "How do I give an invention a purpose?",
+      "response": "Name a small problem and decide how your invention might help. Sketch the idea and list what you would need to test safely.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-178",
+      "topic": "creative-projects",
+      "question": "What is a prototype?",
+      "response": "A prototype is an early model used to explore an idea. It can be a drawing, cardboard shape, or simple simulation rather than a finished device.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-179",
+      "topic": "creative-projects",
+      "question": "How can I share an idea without feeling embarrassed?",
+      "response": "Start by explaining the goal to a trusted person and asking one specific question. You may revise your idea privately before presenting it.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-180",
+      "topic": "creative-projects",
+      "question": "How do I keep track of project ideas?",
+      "response": "Use a notebook or authorized school tool to record a title, date, sketch, and next step. Avoid putting personal details in public chats.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-181",
+      "topic": "social-learning",
+      "question": "How can I listen well in a group?",
+      "response": "Give the speaker time to finish, ask a question about their idea, and summarize what you understood before offering a different view.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-182",
+      "topic": "social-learning",
+      "question": "What should I do if two classmates disagree?",
+      "response": "Let each person explain their view respectfully, look for a shared goal, and ask a teacher for help if the disagreement becomes unkind.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-183",
+      "topic": "social-learning",
+      "question": "How can I ask someone to join a learning activity?",
+      "response": "Invite them with a clear, friendly question and make room for a different preference. Participation should be voluntary.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-184",
+      "topic": "social-learning",
+      "question": "How can I say I need more time?",
+      "response": "Try saying 'I am still working through this step; may I have a little more time?' A teacher or trusted adult can help plan appropriate support.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-185",
+      "topic": "social-learning",
+      "question": "What should I do if I do not understand directions?",
+      "response": "Ask which step comes first and repeat the instruction in your own words. Getting clarification is part of learning.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-186",
+      "topic": "social-learning",
+      "question": "How can I be respectful in an online class?",
+      "response": "Use kind language, stay on topic, protect others' privacy, and follow the classroom's communication rules.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-187",
+      "topic": "social-learning",
+      "question": "How can I respond when someone corrects me?",
+      "response": "Listen for the useful information, ask what changed, and try again if appropriate. You can disagree respectfully while checking the evidence.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-188",
+      "topic": "social-learning",
+      "question": "What does teamwork mean?",
+      "response": "Teamwork means sharing a goal, dividing tasks fairly, communicating clearly, and helping each person contribute without taking over their work.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-189",
+      "topic": "social-learning",
+      "question": "How can I thank someone for helping me learn?",
+      "response": "Say what they did that helped, such as explaining a step or listening patiently. A specific thank-you recognizes their contribution.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-190",
+      "topic": "social-learning",
+      "question": "When should I ask an adult to help with a problem?",
+      "response": "Ask a trusted adult when safety, bullying, privacy, health, or a situation beyond your control is involved. You do not have to solve serious problems alone.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-191",
+      "topic": "age-and-privacy-boundaries",
+      "question": "Can the public preview choose my grade?",
+      "response": "No. This preview cannot place you into a grade, change an Academy class, or record mastery. An authorized school process handles placement.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-192",
+      "topic": "age-and-privacy-boundaries",
+      "question": "Can a learning companion send messages to my friends?",
+      "response": "Not through this public demonstration. Communicate with friends through approved channels and involve an adult when your school requires it.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-193",
+      "topic": "age-and-privacy-boundaries",
+      "question": "Should I tell the public chat my full name?",
+      "response": "No. You can ask learning questions without sharing your full name, address, birthday, school account, or family contact information.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-194",
+      "topic": "age-and-privacy-boundaries",
+      "question": "Can this preview remember our conversation tomorrow?",
+      "response": "Do not rely on this public preview for persistent conversations or progress. Save learning notes only through authorized tools with appropriate supervision.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-195",
+      "topic": "age-and-privacy-boundaries",
+      "question": "What if a website asks me to install something for a lesson?",
+      "response": "Ask a trusted adult or teacher before installing software, granting permissions, or sharing account information.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-196",
+      "topic": "age-and-privacy-boundaries",
+      "question": "Can I use a public mentor during an official exam?",
+      "response": "Follow your teacher's assessment rules. Public practice guidance does not override closed-book or independent-work requirements.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-197",
+      "topic": "age-and-privacy-boundaries",
+      "question": "What should I do if I see an upsetting online message?",
+      "response": "Stop engaging with the message and tell a trusted adult or appropriate school staff member. Avoid forwarding private or harmful content.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-198",
+      "topic": "age-and-privacy-boundaries",
+      "question": "Can I share another student's homework in this chat?",
+      "response": "Do not share classmates' private work or identifying details without permission. Ask a general question or use an invented example instead.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-199",
+      "topic": "age-and-privacy-boundaries",
+      "question": "Does completing a public quiz earn an Academy grade?",
+      "response": "No. A public demonstration or practice quiz cannot award official grades, mastery, credentials, or progression.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-200",
+      "topic": "age-and-privacy-boundaries",
+      "question": "How can my family help me choose learning activities?",
+      "response": "Discuss your interests, needs, and schedule with a trusted adult. Family-supervised choices should respect your comfort and the Academy's authorized rules.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
     }
   ]
 }
