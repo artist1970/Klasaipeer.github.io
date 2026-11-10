@@ -3006,6 +3006,606 @@
       "audiences": [
         "general-public"
       ]
+    },
+    {
+      "id": "klasaipeer-public-251",
+      "topic": "reading-and-evidence",
+      "question": "How can I explain what a paragraph is mainly about?",
+      "response": "Read the full paragraph, name its central idea in one sentence, and point to two supporting details that belong with that idea.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-252",
+      "topic": "reading-and-evidence",
+      "question": "How do I tell whether a prediction was correct?",
+      "response": "Compare your prediction with what the text actually says next. Explain which clues helped and which new details changed your thinking.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-253",
+      "topic": "reading-and-evidence",
+      "question": "Why should I read a caption under a picture?",
+      "response": "A caption may explain a photograph, diagram, or chart. Read it with the surrounding text to understand what the image contributes.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-254",
+      "topic": "reading-and-evidence",
+      "question": "How can I question a surprising fact in a book?",
+      "response": "Check whether the author provides evidence and compare the claim with another reliable source. A surprising statement is worth investigating, not automatically believing.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-255",
+      "topic": "reading-and-evidence",
+      "question": "How do I summarize a short article without copying it?",
+      "response": "Identify the main point and a few necessary details, then explain them in your own words. Keep important facts accurate and credit the original source.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-256",
+      "topic": "writing-and-speaking",
+      "question": "How can I explain a new idea to a younger learner?",
+      "response": "Start with one familiar example, use plain words, and invite a question. Ask the learner to explain the idea back without assuming a grade level.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-257",
+      "topic": "writing-and-speaking",
+      "question": "What belongs in a short presentation opening?",
+      "response": "Tell listeners your topic and why it matters, then give a simple preview of what you will explain. Keep any identifying details private.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-258",
+      "topic": "writing-and-speaking",
+      "question": "How can I make my story dialogue easier to follow?",
+      "response": "Use clear speaker cues, keep each line connected to a purpose, and read the scene aloud to check who is speaking.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-259",
+      "topic": "writing-and-speaking",
+      "question": "How do I write a respectful disagreement?",
+      "response": "State the idea you disagree with, explain your reason, and use evidence. Avoid judging the person or assuming bad intentions.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-260",
+      "topic": "writing-and-speaking",
+      "question": "How can I check whether my instructions are clear?",
+      "response": "Ask someone to follow a safe invented example using only the steps you wrote. Revise places where the reader must guess what to do.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-261",
+      "topic": "numbers-and-data",
+      "question": "How can I describe a bar graph?",
+      "response": "Read the title, category labels, and scale. State which values are largest or smallest, then explain only comparisons the graph supports.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-262",
+      "topic": "numbers-and-data",
+      "question": "What is a unit rate?",
+      "response": "A unit rate compares a quantity with one unit of another, such as distance per hour. Write both units so the comparison stays clear.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-263",
+      "topic": "numbers-and-data",
+      "question": "How can I estimate a fraction of a quantity?",
+      "response": "Use familiar fractions such as one-half or one-quarter as benchmarks, then compare your estimate with a drawing or calculation.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-264",
+      "topic": "numbers-and-data",
+      "question": "Why does a graph need a labeled axis?",
+      "response": "Labels identify what is measured and the units. Without them, readers may misunderstand the meaning or size of a change.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-265",
+      "topic": "numbers-and-data",
+      "question": "How can I test a rule about odd and even numbers?",
+      "response": "Try several examples and explain the pattern, then look for a counterexample. A general rule needs reasoning beyond one successful case.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-266",
+      "topic": "earth-and-life-science",
+      "question": "What is a renewable resource?",
+      "response": "A renewable resource can be replenished through natural processes, although its availability and use still depend on rates and environmental conditions.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-267",
+      "topic": "earth-and-life-science",
+      "question": "Why do some animals migrate?",
+      "response": "Animals may move seasonally in response to food, breeding, or environmental conditions. Different species follow different patterns.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-268",
+      "topic": "earth-and-life-science",
+      "question": "What is erosion?",
+      "response": "Erosion moves soil or rock through water, wind, ice, or gravity. Observe safe examples outdoors without disturbing unstable slopes or shorelines.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-269",
+      "topic": "earth-and-life-science",
+      "question": "How do seeds spread?",
+      "response": "Seeds can travel by wind, water, animals, or other mechanisms. Compare the shapes of familiar seeds and ask which movement they support.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-270",
+      "topic": "earth-and-life-science",
+      "question": "What does biodiversity mean?",
+      "response": "Biodiversity describes variety among living organisms, including genes, species, and ecosystems. It helps scientists understand how living systems function.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-271",
+      "topic": "design-and-engineering",
+      "question": "How can I identify a problem worth designing for?",
+      "response": "Observe a small task and ask what makes it difficult. Describe the need before choosing a solution, and avoid sharing private information about others.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-272",
+      "topic": "design-and-engineering",
+      "question": "What is a design constraint?",
+      "response": "A constraint is a limit such as available materials, time, safety, or space. A useful design meets its goal while respecting those limits.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-273",
+      "topic": "design-and-engineering",
+      "question": "How do I compare two prototype ideas?",
+      "response": "Choose fair criteria such as safety, usefulness, and available materials. Compare evidence from sketches or supervised tests rather than guessing which looks best.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-274",
+      "topic": "design-and-engineering",
+      "question": "Why might a designer revise a working prototype?",
+      "response": "A working version may still be harder to use, costly, or unreliable. Feedback and observations can reveal a specific improvement worth testing.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-275",
+      "topic": "design-and-engineering",
+      "question": "How can I explain a design choice?",
+      "response": "State the problem, the options you considered, and what evidence led to your choice. Mention a tradeoff instead of claiming your design is perfect.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-276",
+      "topic": "media-literacy",
+      "question": "How can I recognize an advertisement in a video?",
+      "response": "Look for sponsor disclosures, promotional language, and calls to buy or sign up. Separate the message's sales goal from evidence about the product.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-277",
+      "topic": "media-literacy",
+      "question": "What should I do before sharing an exciting headline?",
+      "response": "Check the article's source, date, and supporting information. Read past the headline and compare with another trustworthy report.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-278",
+      "topic": "media-literacy",
+      "question": "Why might a photograph not tell the whole story?",
+      "response": "Cropping, timing, and missing context can change what viewers infer. Look for the source and surrounding events before drawing a conclusion.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-279",
+      "topic": "media-literacy",
+      "question": "How can I check whether a website is pretending to be official?",
+      "response": "Examine the full address, look for an independently verifiable organization, and ask a trusted adult before entering any information.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-280",
+      "topic": "media-literacy",
+      "question": "What is the difference between a claim and evidence online?",
+      "response": "A claim says something is true. Evidence consists of relevant, verifiable information that supports or challenges that claim. Popularity alone is not evidence.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-281",
+      "topic": "language-in-context",
+      "question": "How can I practise asking for directions in another language?",
+      "response": "Choose a simple public-place scenario from an approved lesson, learn a polite question, and role-play with a trusted partner without sharing your real location.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-282",
+      "topic": "language-in-context",
+      "question": "Why do some languages use formal and informal greetings?",
+      "response": "Forms of address can reflect relationships, region, and setting. Learn from real usage rather than assuming one form is appropriate everywhere.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-283",
+      "topic": "language-in-context",
+      "question": "How can I check an unfamiliar translated phrase?",
+      "response": "Compare reliable dictionary or learning sources and read the phrase in a complete context. Automated translations may miss tone and idioms.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-284",
+      "topic": "language-in-context",
+      "question": "What is a useful way to practise a new writing system?",
+      "response": "Begin with a few common symbols from a trusted lesson, observe their shapes and sounds, and practise without rushing to memorize everything.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-285",
+      "topic": "language-in-context",
+      "question": "How can a story help me remember a new word?",
+      "response": "Use the word in a short original scene that makes its meaning clear. Revisit it later and check whether it still fits naturally.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-286",
+      "topic": "organization-and-study",
+      "question": "How can I create a revision checklist for a project?",
+      "response": "List the goal, the most important problems found, and one improvement for each. Check the revised work against the original requirements.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-287",
+      "topic": "organization-and-study",
+      "question": "What should I do when two assignments have the same deadline?",
+      "response": "Write both tasks down, estimate the work involved, and ask a teacher or trusted adult to help prioritize if the schedule is unrealistic.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-288",
+      "topic": "organization-and-study",
+      "question": "How can I tell when a study technique is not helping?",
+      "response": "Try explaining a new example without looking at notes. If the idea remains unclear, change the practice approach or ask for another explanation.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-289",
+      "topic": "organization-and-study",
+      "question": "What belongs in a daily learning reflection?",
+      "response": "Name a skill you practiced, one example you can explain, and a question to revisit. Avoid storing private account details in an open notebook.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-290",
+      "topic": "organization-and-study",
+      "question": "How can I prepare a question for office hours?",
+      "response": "State the lesson topic, the step you tried, and the result you received. Ask about the specific confusion instead of requesting a full answer key.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-291",
+      "topic": "community-and-respect",
+      "question": "How can I welcome someone new to a learning group?",
+      "response": "Introduce the activity, invite participation without pressure, and explain the rules kindly. Ask how the person would prefer to contribute.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-292",
+      "topic": "community-and-respect",
+      "question": "What should I do if a group member is being ignored?",
+      "response": "Invite their perspective, suggest fair turn-taking, and ask an adult or facilitator for support if exclusion continues.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-293",
+      "topic": "community-and-respect",
+      "question": "How do I give credit for a shared project?",
+      "response": "Describe what each contributor did with their agreement. Follow school requirements and avoid publishing classmates' private names without permission.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-294",
+      "topic": "community-and-respect",
+      "question": "How can I disagree about a scientific idea respectfully?",
+      "response": "Focus on the claim and the observations supporting it. Ask what evidence would change either view instead of making the disagreement personal.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-295",
+      "topic": "community-and-respect",
+      "question": "What is a good way to repair a misunderstanding?",
+      "response": "Explain what you intended, listen to the other person's experience, and agree on a clearer way to communicate. Ask an adult for help if needed.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-296",
+      "topic": "family-and-public-safety",
+      "question": "Can I enter a classmate's personal information for practice?",
+      "response": "No. Use fictional names and invented details for public examples. Never put another person's account, address, or records into a public learning chat.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-297",
+      "topic": "family-and-public-safety",
+      "question": "Can the public preview access my parent's portal?",
+      "response": "No. This demonstration is not connected to parent accounts or family permissions. Use authorized Academy pathways with your family.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-298",
+      "topic": "family-and-public-safety",
+      "question": "What if an online activity asks me for payment details?",
+      "response": "Do not enter payment or banking information in an unfamiliar learning activity. Show the request to a trusted adult before continuing.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-299",
+      "topic": "family-and-public-safety",
+      "question": "Can this public tool remember my private learning preferences?",
+      "response": "Do not assume a public demonstration securely stores personal preferences or progress. Use only authorized profile tools with family guidance.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-300",
+      "topic": "family-and-public-safety",
+      "question": "What if I feel unsafe during an online lesson?",
+      "response": "Leave or pause the activity, do not share additional information, and tell a trusted adult or school safeguarding contact promptly.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
     }
   ]
 }
