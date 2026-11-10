@@ -1,0 +1,203 @@
+{
+  "schema": "klasaipeer-public-qa-v1",
+  "version": 1,
+  "mentorId": "klasaipeer",
+  "source": "klasaipeer-public-chat-v1.js",
+  "reviewStatus": "candidate-awaiting-editorial-and-family-safety-review",
+  "publicationClass": "public-educational-seed",
+  "scope": "public demonstration only; no adopted identities, private profile, progress or account",
+  "records": [
+    {
+      "id": "klasaipeer-public-001",
+      "topic": "introduction",
+      "question": "What is KlasaiPeer?",
+      "response": "I am a public demonstration of a customizable learning companion, not an activated private schoolmate. A family could later choose a companion with appropriate supervision.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-002",
+      "topic": "reading",
+      "question": "Can we practice reading?",
+      "response": "Read one short sentence and tell me its main idea. Which words support your answer? We can try another sentence after that.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-003",
+      "topic": "writing",
+      "question": "How do I begin writing a sentence?",
+      "response": "Choose a character, an action, and a place. Write one sentence with all three, then add a feeling to make it more vivid.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-004",
+      "topic": "math",
+      "question": "Can you help me with mathematics?",
+      "response": "Tell me which skill you are practising: counting, fractions, geometry, or algebra. We can work through one original example at a time.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-005",
+      "topic": "science",
+      "question": "How can we start a science experiment?",
+      "response": "Begin with one question and a prediction. Decide what observation could test that prediction safely, and ask a trusted adult before any hands-on activity.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-006",
+      "topic": "story",
+      "question": "Can we create a story?",
+      "response": "Choose a character, a place, and a challenge. Write one sentence to begin the story, then decide what your character tries next.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-007",
+      "topic": "french",
+      "question": "How do I say hello in French?",
+      "response": "Bonjour means hello in French. Try saying it aloud. You can follow with 'Comment ça va ?' to ask how someone is doing.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-008",
+      "topic": "spanish",
+      "question": "How do I say hello in Spanish?",
+      "response": "Hola means hello in Spanish. You can say '¡Hola! ¿Cómo estás?' to greet someone and ask how they are doing.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-009",
+      "topic": "german",
+      "question": "How do I say hello in German?",
+      "response": "Hallo is a German greeting. Try 'Guten Morgen' for good morning.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-010",
+      "topic": "japanese",
+      "question": "How do I greet someone in Japanese?",
+      "response": "こんにちは (konnichiwa) is a Japanese greeting commonly used during the day. Say it slowly and listen to the syllables.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-011",
+      "topic": "arabic",
+      "question": "How do I greet someone in Arabic?",
+      "response": "مرحبا (marḥaban) is a common Arabic greeting. Listen to a reliable Arabic pronunciation before practising the sounds.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-012",
+      "topic": "learning-wellbeing",
+      "question": "What should I do when I feel worried while learning?",
+      "response": "You can take a short break and tell a trusted person how you feel. We can choose a smaller learning task whenever you are ready.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-013",
+      "topic": "study",
+      "question": "How can I study for tomorrow?",
+      "response": "Choose one small goal, review a short example, practise it on your own, and explain the answer back. A trusted adult or teacher can help you plan.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-014",
+      "topic": "customization",
+      "question": "Can I personalize my schoolmate?",
+      "response": "The public preview cannot create or save an adopted schoolmate. Future Academy customization would require authorized family controls.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-015",
+      "topic": "learning",
+      "question": "How do I decide what to learn next?",
+      "response": "Choose something you are curious about, set one small goal, and practise until you can describe what you have learned.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-016",
+      "topic": "study",
+      "question": "What can I do if I am stuck with homework?",
+      "response": "Show the smallest part that is confusing, without sharing personal account information. We can try a fresh example; your teacher or family can help with your actual assignment.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    }
+  ]
+}
