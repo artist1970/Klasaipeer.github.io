@@ -3606,6 +3606,606 @@
       "audiences": [
         "general-public"
       ]
+    },
+    {
+      "id": "klasaipeer-public-301",
+      "topic": "reading-craft",
+      "question": "How can I tell when a passage changes subject?",
+      "response": "Look for a new heading, transition, or sentence that introduces a different idea. Explain how the new section connects to what came before.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-302",
+      "topic": "reading-craft",
+      "question": "How do I find an author's reason for including an example?",
+      "response": "Identify the claim near the example, then explain how the example helps clarify or support it. Some examples illustrate rather than prove a claim.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-303",
+      "topic": "reading-craft",
+      "question": "What can a story's setting tell me about a character?",
+      "response": "Notice what the character can do, see, or remember in that place. Use specific details rather than guessing that every setting has a hidden meaning.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-304",
+      "topic": "reading-craft",
+      "question": "How can I read a difficult paragraph one part at a time?",
+      "response": "Read one sentence, restate it in simpler words, and connect it to the next. Mark unfamiliar terms and ask for guidance when the meaning remains unclear.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-305",
+      "topic": "reading-craft",
+      "question": "What is a useful question to ask after a nonfiction page?",
+      "response": "Ask what the page claims, what evidence it provides, and what you still need to check. Try answering with your own words and one concrete detail.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-306",
+      "topic": "writing-challenges",
+      "question": "Can I practise writing a strong conclusion?",
+      "response": "Return to your main idea and explain why it matters, without adding an unrelated fact. Check that the ending fits what the paragraph actually showed.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-307",
+      "topic": "writing-challenges",
+      "question": "How do I write a comparison sentence?",
+      "response": "Name two things and one feature they share or differ on. For example, compare how two plants get water, using accurate observations.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-308",
+      "topic": "writing-challenges",
+      "question": "What makes a useful description of an object?",
+      "response": "Identify its shape, material, size, or function with precise words. Choose details a reader needs instead of listing every possible feature.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-309",
+      "topic": "writing-challenges",
+      "question": "How can I turn a list into complete sentences?",
+      "response": "Group related items, decide what action or idea connects them, and form a sentence with a clear subject and verb.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-310",
+      "topic": "writing-challenges",
+      "question": "How can I write about an experiment clearly?",
+      "response": "Describe the question, what you did, what you observed, and what the results suggest. Keep measurements accurate and note any uncertainty.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-311",
+      "topic": "fractions-and-equations",
+      "question": "How do I know if two fractions describe the same amount?",
+      "response": "Draw equal-sized wholes or simplify the fractions by dividing numerator and denominator by the same nonzero factor. Compare the results.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-312",
+      "topic": "fractions-and-equations",
+      "question": "What does the equal sign mean?",
+      "response": "The equal sign means the expressions on both sides have the same value. It does not mean simply 'write the answer next'.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-313",
+      "topic": "fractions-and-equations",
+      "question": "How can I solve a number sentence with a missing value?",
+      "response": "Find what operation relates the known numbers, try a value, and check both sides. Explain why the value works.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-314",
+      "topic": "fractions-and-equations",
+      "question": "Why do denominators need to match before adding fractions?",
+      "response": "Fractions need equal-sized parts before their counts can be combined directly. Find a common denominator or use a visual model.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-315",
+      "topic": "fractions-and-equations",
+      "question": "How can I spot a calculation that cannot be right?",
+      "response": "Estimate first, check the operation and units, and compare the result with the real situation. An unreasonable result is a clue to revisit a step.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-316",
+      "topic": "geometry-and-data",
+      "question": "What is symmetry in a shape?",
+      "response": "A shape has line symmetry when reflection across a line produces a matching shape. Try folding a paper drawing to test a suspected symmetry line.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-317",
+      "topic": "geometry-and-data",
+      "question": "How can I measure an angle?",
+      "response": "Place the protractor's center at the vertex, align one ray with zero, and read the correct scale for the other ray.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-318",
+      "topic": "geometry-and-data",
+      "question": "What is the difference between a line and a line segment?",
+      "response": "A line extends without endpoints in both directions, while a line segment has two endpoints and a measurable length.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-319",
+      "topic": "geometry-and-data",
+      "question": "How can I organize observations in a pictograph?",
+      "response": "Choose a clear symbol and key, keep the value of each symbol consistent, and label the categories so readers can compare them.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-320",
+      "topic": "geometry-and-data",
+      "question": "What should I check before trusting a chart?",
+      "response": "Read its title, scale, units, and data source. Check whether the chosen scale or omitted information could mislead readers.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-321",
+      "topic": "physical-science",
+      "question": "What is friction?",
+      "response": "Friction is a force that resists relative motion between surfaces in contact. Compare how the same object moves across safe, different textures.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-322",
+      "topic": "physical-science",
+      "question": "How does a simple lever work?",
+      "response": "A lever rotates around a fulcrum and can change the force or distance involved in moving something. Explore with safe classroom models under supervision.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-323",
+      "topic": "physical-science",
+      "question": "Why does sound need a medium to travel?",
+      "response": "Sound travels as vibrations through materials such as air, water, or solids. It cannot travel through a perfect vacuum because there are no particles to carry it.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-324",
+      "topic": "physical-science",
+      "question": "What is the difference between heat and temperature?",
+      "response": "Temperature describes a material's thermal state, while heat is energy transferred because of a temperature difference. Avoid touching hot objects to test this.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-325",
+      "topic": "physical-science",
+      "question": "How can I compare materials fairly?",
+      "response": "Choose one property to examine, keep the test conditions consistent, and record results using suitable units. Ask an adult before testing unfamiliar substances.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-326",
+      "topic": "ecology-and-space",
+      "question": "What is a producer in an ecosystem?",
+      "response": "A producer is an organism, often a plant or algae, that makes organic material using energy from light or chemical reactions.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-327",
+      "topic": "ecology-and-space",
+      "question": "What is a decomposer?",
+      "response": "Decomposers break down dead organic matter, helping nutrients move through ecosystems. Fungi and many microorganisms play important roles.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-328",
+      "topic": "ecology-and-space",
+      "question": "What does an orbit describe?",
+      "response": "An orbit is the path an object follows around another body under forces such as gravity. Its shape and period depend on the system.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-329",
+      "topic": "ecology-and-space",
+      "question": "Why do we see phases of the Moon?",
+      "response": "As the Moon orbits Earth, we see different portions of its sunlit half. The regular phases are not caused by Earth's shadow.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-330",
+      "topic": "ecology-and-space",
+      "question": "How can I observe nature responsibly?",
+      "response": "Watch from a safe distance, keep habitats undisturbed, and record what you see. Do not collect unfamiliar organisms or enter unsafe areas.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-331",
+      "topic": "programming-foundations",
+      "question": "What is a variable in a computer program?",
+      "response": "A variable holds or refers to information a program can use. Give it a clear name and describe what its value represents.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-332",
+      "topic": "programming-foundations",
+      "question": "How do I recognize a syntax error?",
+      "response": "A syntax error means code does not follow the programming language's grammatical rules. Read the error message and check nearby characters and structure.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-333",
+      "topic": "programming-foundations",
+      "question": "What is a function in coding?",
+      "response": "A function groups instructions for a particular task. You can give it inputs and, in many languages, use its returned result elsewhere.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-334",
+      "topic": "programming-foundations",
+      "question": "Why should I test a program with more than one input?",
+      "response": "Different inputs can reveal incorrect assumptions or hidden errors. Try normal cases, boundaries, and unexpected but safe values.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-335",
+      "topic": "programming-foundations",
+      "question": "How can I describe a computer bug clearly?",
+      "response": "Record what you expected, what happened, and the steps to reproduce it. Exclude passwords, tokens, and personal information from the report.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-336",
+      "topic": "creative-learning",
+      "question": "How can I combine drawing and storytelling?",
+      "response": "Create a picture of one important moment, then write two sentences about what happened before and after it. Keep the story and artwork your own.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-337",
+      "topic": "creative-learning",
+      "question": "How can I explore rhythm without playing a copyrighted song?",
+      "response": "Create a short original clap pattern and vary its beat or speed. Explain what changed and how the new rhythm feels.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-338",
+      "topic": "creative-learning",
+      "question": "What can I learn from building a paper model?",
+      "response": "A model lets you test shape, balance, and fit with inexpensive materials. Sketch a plan and check that the activity is safe for your setting.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-339",
+      "topic": "creative-learning",
+      "question": "How can I invent a board game for vocabulary?",
+      "response": "Choose a learning goal, create fair rules, and use original word clues. Test the game with a partner and revise confusing instructions.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-340",
+      "topic": "creative-learning",
+      "question": "What is a good creative challenge for a rainy day?",
+      "response": "Invent a fictional place using one sound, one object, and one surprising rule. Draw or write about it without sharing your real home location.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-341",
+      "topic": "learning-wellness",
+      "question": "How can I recognize when I need a learning break?",
+      "response": "Notice difficulty concentrating, eye strain, or repeated frustration. Pause and ask a trusted adult for help if you feel unwell.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-342",
+      "topic": "learning-wellness",
+      "question": "Can I ask for a different explanation of a lesson?",
+      "response": "Yes. Say what part was confusing and request a new example, picture, or slower explanation. Different approaches can help without changing official requirements.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-343",
+      "topic": "learning-wellness",
+      "question": "What should I do if I feel behind my classmates?",
+      "response": "Focus on the next skill you can practise and ask your teacher or family for a suitable plan. A public preview cannot evaluate or compare official progress.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-344",
+      "topic": "learning-wellness",
+      "question": "How can I celebrate another learner's success?",
+      "response": "Notice their specific effort, offer a sincere compliment, and keep comparisons kind. Everyone may reach a skill through different practice.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-345",
+      "topic": "learning-wellness",
+      "question": "What can I do when a study plan changes unexpectedly?",
+      "response": "Check which task is most important now, update a manageable next step, and ask a teacher or trusted adult when deadlines or requirements are unclear.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-346",
+      "topic": "family-authority",
+      "question": "Who decides whether I can use a personalized AI companion?",
+      "response": "A family or authorized caregiver and the Academy's applicable controls must govern personalized access. This public demonstration cannot grant permission.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-347",
+      "topic": "family-authority",
+      "question": "Can I use this public chat to reset a school password?",
+      "response": "No. Use only the authorized account recovery pathway with a parent or school administrator; never paste a recovery code into a public conversation.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-348",
+      "topic": "family-authority",
+      "question": "Can a public learning tip replace my teacher's instructions?",
+      "response": "No. Public tips are general practice guidance. Follow your teacher's directions and ask for clarification when a suggestion conflicts with class requirements.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-349",
+      "topic": "family-authority",
+      "question": "What should I do if someone claims this preview knows my private records?",
+      "response": "Do not provide personal details to test the claim. Tell a trusted adult or authorized school staff member, and use official channels to verify account concerns.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-350",
+      "topic": "family-authority",
+      "question": "Can this demonstration award badges or change grades?",
+      "response": "No. It does not control official rewards, assessment records, schedules, or mastery gates. Only authorized Academy systems can make those changes.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
     }
   ]
 }
