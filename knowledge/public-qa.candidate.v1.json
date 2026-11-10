@@ -1206,6 +1206,606 @@
       "audiences": [
         "general-public"
       ]
+    },
+    {
+      "id": "klasaipeer-public-101",
+      "topic": "reading-comprehension",
+      "question": "How can I find evidence for my answer?",
+      "response": "Look for a sentence, diagram, or detail that directly supports your idea. Explain how it fits instead of copying a long passage.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-102",
+      "topic": "reading-comprehension",
+      "question": "What is the difference between a character and a narrator?",
+      "response": "A character takes part in the story. A narrator tells the story, and may be a character or an outside observer.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-103",
+      "topic": "reading-comprehension",
+      "question": "How can I follow the order of events?",
+      "response": "Make a small timeline with what happened first, next, and last. Use clues such as dates, changes in place, and cause and effect.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-104",
+      "topic": "reading-comprehension",
+      "question": "How do I recognize cause and effect?",
+      "response": "Ask which event happened and what made it happen. Check the text for a stated reason rather than assuming two nearby events are connected.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-105",
+      "topic": "reading-comprehension",
+      "question": "What is an inference while reading?",
+      "response": "An inference is a conclusion supported by clues and what you already know. Point to the evidence and stay open to revising the conclusion.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-106",
+      "topic": "reading-comprehension",
+      "question": "How can I read a chart in an article?",
+      "response": "Read the title and labels, check the units, and describe one trend. Compare it with the article's claims to see what the chart actually shows.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-107",
+      "topic": "reading-comprehension",
+      "question": "How do I recognize the author's purpose?",
+      "response": "Ask whether the text mainly informs, explains, entertains, or persuades. Identify wording and structure that support your interpretation.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-108",
+      "topic": "reading-comprehension",
+      "question": "What should I do after finishing a chapter?",
+      "response": "Describe one important event, a question you still have, and a detail you want to remember. You can discuss these with a teacher or reading partner.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-109",
+      "topic": "reading-comprehension",
+      "question": "How can I compare a book and a film adaptation?",
+      "response": "Choose a scene and compare what each version shows or explains. Notice how narration, images, music, or editing change the experience.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-110",
+      "topic": "reading-comprehension",
+      "question": "How do I use a glossary?",
+      "response": "Find a word in the glossary, read the definition, and return to the sentence where it appeared. Check whether the meaning fits the context.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-111",
+      "topic": "math-practice",
+      "question": "How can I estimate before calculating?",
+      "response": "Round numbers or use a familiar benchmark to predict a reasonable answer. Then calculate and compare the result with your estimate.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-112",
+      "topic": "math-practice",
+      "question": "What does division tell us?",
+      "response": "Division can describe splitting a quantity into equal groups or finding how many groups fit. Draw a model to explain which meaning fits the problem.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-113",
+      "topic": "math-practice",
+      "question": "What is a number line useful for?",
+      "response": "A number line shows order and distance between numbers. Use it to compare values, show movement, or understand positive and negative quantities.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-114",
+      "topic": "math-practice",
+      "question": "How do I find an equivalent fraction?",
+      "response": "Multiply or divide the numerator and denominator by the same nonzero number. A picture of equal-sized parts can help check the result.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-115",
+      "topic": "math-practice",
+      "question": "What is the difference between mean and median?",
+      "response": "The mean is the sum of values divided by their count. The median is the middle value when data are ordered; compare them when outliers appear.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-116",
+      "topic": "math-practice",
+      "question": "What is a coordinate pair?",
+      "response": "A coordinate pair gives two positions, often horizontal x and vertical y. Start at the origin and move in the indicated order on the graph.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-117",
+      "topic": "math-practice",
+      "question": "How can I describe a geometric pattern?",
+      "response": "Identify what changes or stays the same, such as shape, orientation, or size. State a rule and test it with the next figure.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-118",
+      "topic": "math-practice",
+      "question": "How do I check a measurement?",
+      "response": "Confirm the tool, unit, and starting point. Estimate first, then repeat the measurement to see whether the result is consistent.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-119",
+      "topic": "math-practice",
+      "question": "What is a ratio?",
+      "response": "A ratio compares two quantities, such as three red beads to two blue beads. Be clear about the order and the quantities you compare.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-120",
+      "topic": "math-practice",
+      "question": "How can I solve a multistep problem?",
+      "response": "List what is known, identify the goal, and choose a first step. Check each intermediate result before using it in the next calculation.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-121",
+      "topic": "science-practice",
+      "question": "What is a hypothesis?",
+      "response": "A hypothesis is a testable proposed explanation. State what you expect and what observations could support or challenge it.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-122",
+      "topic": "science-practice",
+      "question": "Why do we repeat an experiment?",
+      "response": "Repeating a test helps check whether a result is consistent or affected by chance or uncontrolled conditions. Record each result, not only the one you expected.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-123",
+      "topic": "science-practice",
+      "question": "What is a variable in an experiment?",
+      "response": "A variable is a factor that can change or be measured. Decide which factor you will change and which observations you will record.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-124",
+      "topic": "science-practice",
+      "question": "How do I make a simple data table?",
+      "response": "Choose clear headings for each quantity, include units, and record measurements in order. Keep observations separate from your explanation.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-125",
+      "topic": "science-practice",
+      "question": "What is an ecosystem?",
+      "response": "An ecosystem includes living organisms and their nonliving surroundings interacting in a place. Think about water, sunlight, soil, and food relationships.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-126",
+      "topic": "science-practice",
+      "question": "What causes day and night?",
+      "response": "Earth's rotation turns places toward and away from the Sun. One full rotation takes about a day; do not look directly at the Sun to observe it.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-127",
+      "topic": "science-practice",
+      "question": "How are weather and climate different?",
+      "response": "Weather describes conditions over shorter periods at a place. Climate describes long-term patterns of weather over many years.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-128",
+      "topic": "science-practice",
+      "question": "What happens when a solid melts?",
+      "response": "Melting occurs when a solid becomes a liquid under suitable conditions. Observe a safe example such as ice at room temperature.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-129",
+      "topic": "science-practice",
+      "question": "Why should an experiment include safety rules?",
+      "response": "Safety rules help prevent injury, environmental harm, and misunderstandings. Ask an adult or teacher before handling chemicals, electricity, flames, or unfamiliar tools.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-130",
+      "topic": "science-practice",
+      "question": "How can I explain a scientific result?",
+      "response": "Describe what you measured, compare it with the prediction, and say what the evidence supports. Include uncertainty rather than claiming more than the test shows.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-131",
+      "topic": "language-practice",
+      "question": "How can I practise Spanish greetings with a partner?",
+      "response": "Take turns saying 'Hola', asking '¿Cómo estás?', and choosing a simple reply. Listen to authentic pronunciation and correct each other gently.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-132",
+      "topic": "language-practice",
+      "question": "How can I practise a French question?",
+      "response": "Try 'Comment ça va ?' and listen for the rhythm. Answer with a short phrase, then switch roles with your partner.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-133",
+      "topic": "language-practice",
+      "question": "What makes a useful vocabulary flashcard?",
+      "response": "Put one word or short phrase on one side and a clear meaning or original example on the other. Practise retrieving the answer before flipping.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-134",
+      "topic": "language-practice",
+      "question": "How can I listen for unfamiliar sounds?",
+      "response": "Listen to a trusted model, notice where the sound begins in the mouth, and practise comfortably. Compare two words rather than forcing long repetition.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-135",
+      "topic": "language-practice",
+      "question": "What is a language learning mistake I can learn from?",
+      "response": "If a word order or pronunciation does not fit, compare it with a reliable model and try one corrected example. Mistakes can show what to practise next.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-136",
+      "topic": "language-practice",
+      "question": "How can I remember polite phrases?",
+      "response": "Pair a greeting, request, and thank-you with a realistic situation. Practise the exchange aloud and notice how formality varies by language.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-137",
+      "topic": "language-practice",
+      "question": "How can I choose which language to practise today?",
+      "response": "Choose a language you are curious about or currently studying, then set a tiny goal such as greeting someone or asking a simple question.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-138",
+      "topic": "language-practice",
+      "question": "What is the difference between translation and learning a language?",
+      "response": "Translation aims to convey meaning between languages. Language learning also builds listening, speaking, reading, writing, and cultural understanding.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-139",
+      "topic": "language-practice",
+      "question": "How can I build a short conversation?",
+      "response": "Begin with a greeting, ask one clear question, answer it, and close politely. Use words you know before adding more complicated expressions.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-140",
+      "topic": "language-practice",
+      "question": "Can I ask for another example in a lesson?",
+      "response": "Yes. Say which part of the example helped and which part remains confusing. A fresh example can reveal the same idea in a different situation.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-141",
+      "topic": "learning-plans",
+      "question": "How can I make a three-step study plan?",
+      "response": "Choose one skill, practise with a fresh example, and review what you learned. Keep the steps small enough to finish with available time and support.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-142",
+      "topic": "learning-plans",
+      "question": "What is a useful way to practise every day?",
+      "response": "Choose a brief routine you can repeat safely, such as reading a short paragraph and explaining it. Variety and rest are also part of learning.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-143",
+      "topic": "learning-plans",
+      "question": "How can I tell whether I am ready for harder questions?",
+      "response": "Try a new example without looking at the solution and explain your reasoning. If it feels secure, attempt a slightly harder one; ask your teacher about official advancement.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-144",
+      "topic": "learning-plans",
+      "question": "What should I do when a question feels too difficult?",
+      "response": "Break the task into known parts, check a simpler example, and request a hint. A trusted teacher can help choose an appropriate next step.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-145",
+      "topic": "learning-plans",
+      "question": "How do I remember something after a week?",
+      "response": "Review it on different days, retrieve the answer before checking, and connect it with a new example. Make the practice manageable instead of cramming.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-146",
+      "topic": "learning-plans",
+      "question": "How can I work with a classmate respectfully?",
+      "response": "Take turns explaining ideas, ask questions, and agree on how to check answers. Protect classmates' personal details and ask a teacher for help with conflict.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-147",
+      "topic": "privacy-safety",
+      "question": "Can I share a photo of my school ID in public chat?",
+      "response": "No. School identification, personal photos with identifying details, and account documents belong only in trusted authorized settings with adult guidance.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-148",
+      "topic": "privacy-safety",
+      "question": "What if someone online asks for a secret?",
+      "response": "Do not share passwords, location, account codes, or private family information. Stop the exchange and tell a trusted adult or authorized school staff member.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-149",
+      "topic": "privacy-safety",
+      "question": "Can a public mentor give me an official grade?",
+      "response": "No. A public learning preview can offer practice and explanations, but official grades and progress belong to the Academy's authorized systems.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
+    },
+    {
+      "id": "klasaipeer-public-150",
+      "topic": "privacy-safety",
+      "question": "How do I ask for help without sharing private information?",
+      "response": "Describe the subject and the part that confuses you, using an invented example if helpful. Avoid names, addresses, account credentials, and private school records.",
+      "status": "review-pending",
+      "source": "public-companion-demo-guidance",
+      "version": 1,
+      "audiences": [
+        "general-public"
+      ]
     }
   ]
 }
